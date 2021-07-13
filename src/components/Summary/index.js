@@ -8,18 +8,18 @@ import Link from './Link';
 import Date from './Date';
 import ContinueReading from './ContinueReading';
 
-function Summary({date, title, excerpt, slug, image}) {
+function Summary({ date, title, excerpt, slug, image }) {
   return (
     <Wrapper>
-        {image &&
-          <Link to={slug}>
-            <FeaturedImage sizes={image.childImageSharp.sizes}/>
-          </Link>
-        }
-        <H1><Link to={slug}>{title}</Link></H1>
-        <Date>{date}</Date>
-        <P>{excerpt}</P>
-        <ContinueReading to={slug}>Continue Reading &rarr;</ContinueReading>
+      {image &&
+        <Link to={slug}>
+          <FeaturedImage sizes={image.childImageSharp.sizes} />
+        </Link>
+      }
+      <H1><Link to={slug}>{title}</Link></H1>
+      <Date>{date}</Date>
+      <P>{excerpt}</P>
+      <ContinueReading to={slug}>Continuer la lecture &rarr;</ContinueReading>
     </Wrapper>
   );
 }

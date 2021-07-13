@@ -20,7 +20,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body {
-    background: #f9fafc;
+    background: #E7F5CC;
     font-family: 'Open Sans', sans-serif; 
     line-height: 1.5;
     padding: 50px 0;
