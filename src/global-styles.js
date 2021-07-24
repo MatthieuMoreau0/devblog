@@ -32,6 +32,11 @@ const GlobalStyle = createGlobalStyle`
     max-width: 100%;
   }
 
+  // img[alt=portrait] {
+  //   width: auto !important;
+  //   height: auto !important;
+  // }
+
   .gatsby-highlight {
     border-bottom: 1px solid #e0e6ed;
     border-top: 1px solid #e0e6ed;
@@ -47,6 +52,10 @@ const GlobalStyle = createGlobalStyle`
   pre[class*="language-"] {
     background: rgba(245, 245, 245, 1);
     color: rgb(65, 76, 94);  }
+  
+  .gatsby-resp-image-image {
+    object-fit: contain;
+  }
 
   @media only screen and (max-width: 870px) {
     .gatsby-highlight {
