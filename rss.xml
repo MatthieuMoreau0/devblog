@@ -1,4 +1,90 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Journal de bord]]></title><description><![CDATA[Apprenti main-verte]]></description><link>https://matthieumoreau0.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 14 Jul 2021 00:16:03 GMT</lastBuildDate><item><title><![CDATA[Bienvenue sur le "Green blog vert"!]]></title><description><![CDATA[Bienvenue sur le Green blog vert, le blog disruptif qui vous prouve qu’il ne faut jamais confier la responsabilité de vos plantes à vos amis !]]></description><link>https://matthieumoreau0.github.io/devblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://matthieumoreau0.github.io/devblog/welcome-to-the-blog/</guid><pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Bienvenue sur le &lt;em&gt;Green blog vert&lt;/em&gt;, le blog disruptif qui vous prouve qu’il ne faut jamais confier la responsabilité de vos plantes à vos amis !&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Journal de bord]]></title><description><![CDATA[Apprenti main-verte]]></description><link>https://matthieumoreau0.github.io/devblog</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 24 Jul 2021 12:05:56 GMT</lastBuildDate><item><title><![CDATA[Rencontre !]]></title><description><![CDATA[Samedi dernier a eu lieu la recontre tant attendue entre plantes et plant-sitter… et tout s’est passé à merveille !]]></description><link>https://matthieumoreau0.github.io/devblog/meetup/</link><guid isPermaLink="false">https://matthieumoreau0.github.io/devblog/meetup/</guid><pubDate>Sat, 24 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Samedi dernier a eu lieu la recontre tant attendue entre plantes et plant-sitter… et tout s’est passé à merveille ! &lt;/p&gt;
+&lt;!-- end --&gt;
+&lt;h2&gt;Présentations&lt;/h2&gt;
+&lt;p&gt;Le stress et l’excitation montent ! C’est l’heure de la rencontre de nos plantes adorées. Bien entendu le protocole sanitaire a été respecté à la lettre, avec port du masque et lavage de main régulier obligatoire. 
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.85714285714286%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAabcMD4Vif/EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMSEf/aAAgBAQABBQJD0vnFTKFTqwhpXaM//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BWf/EABYRAAMAAAAAAAAAAAAAAAAAAAECEP/aAAgBAgEBPwELP//EABkQAQACAwAAAAAAAAAAAAAAAAABcRARIf/aAAgBAQAGPwLE2tt1/8QAGhABAAIDAQAAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPyEOSD2MrS3RLwxlFZZXggLoFaJ4h7if/9oADAMBAAIAAwAAABCkP//EABURAQEAAAAAAAAAAAAAAAAAAAAh/9oACAEDAQE/EDX/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/EA//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMVFBYYHR/9oACAEBAAE/EJXQqhnOvuJ5aBsfbzvADYtDxkgKQicQf3Nzxa+u7cV3bBVc/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px #F7FCEE;&quot;
+        alt=&quot;règle sanitaires tyranniques&quot;
+        title=&quot;&quot;
+        src=&quot;/devblog/static/f95472ede83af3e8067ef1e79dba298d/29d31/fistbump.jpg&quot;
+        srcset=&quot;/devblog/static/f95472ede83af3e8067ef1e79dba298d/e52aa/fistbump.jpg 175w,
+/devblog/static/f95472ede83af3e8067ef1e79dba298d/70ebb/fistbump.jpg 350w,
+/devblog/static/f95472ede83af3e8067ef1e79dba298d/29d31/fistbump.jpg 700w,
+/devblog/static/f95472ede83af3e8067ef1e79dba298d/9ecec/fistbump.jpg 1050w,
+/devblog/static/f95472ede83af3e8067ef1e79dba298d/d165a/fistbump.jpg 1400w,
+/devblog/static/f95472ede83af3e8067ef1e79dba298d/d2602/fistbump.jpg 4032w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;h2&gt;Premières activités&lt;/h2&gt;
+&lt;p&gt;Une fois les présentations faites et les plantes rassasiées, les premiers jeux et activités ont pris place. Au planning : jeux de cartes et time’s up ! &lt;/p&gt;
+&lt;p&gt;Thomas, le plant de tomate cerise témoigne : &lt;em&gt;“C’est trop cool cette colo, Matthieu est vraiment super sympa ! Il nous a fait découvrir plein de jeux auxquels Gaïa ne voulait pas qu’on joue, on adore!”&lt;/em&gt; &lt;/p&gt;
+&lt;p&gt;C’est de bonne augure pour la suite de ces vacances!&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.85714285714286%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAB/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEbDZmosj//xAAZEAACAwEAAAAAAAAAAAAAAAABAgMSEyL/2gAIAQEAAQUCAGgdmkkUvJfvVrI5A//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAECBwAAAAAAAAAAAAAAAAABAhASIkFRYZH/2gAIAQEABj8CbZMFXBykouof/8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIUGB/9oACAEBAAE/ISEuEgFb9YEHs5hsiVwsknAzSN93/9oADAMBAAIAAwAAABCf/wD/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhMf/aAAgBAwEBPxBbRDP/xAAWEQADAAAAAAAAAAAAAAAAAAAQESH/2gAIAQIBAT8QUH//xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFRYZGx/9oACAEBAAE/ELTYF7WeWEMkFaHB8gRUN7GCoiBk2nqPV5woh1E43TP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px #F7FCEE;&quot;
+        alt=&quot;portrait&quot;
+        title=&quot;&quot;
+        src=&quot;/devblog/static/1a88ae7256bf4be8ac31e1f70e5938da/29d31/carte.jpg&quot;
+        srcset=&quot;/devblog/static/1a88ae7256bf4be8ac31e1f70e5938da/e52aa/carte.jpg 175w,
+/devblog/static/1a88ae7256bf4be8ac31e1f70e5938da/70ebb/carte.jpg 350w,
+/devblog/static/1a88ae7256bf4be8ac31e1f70e5938da/29d31/carte.jpg 700w,
+/devblog/static/1a88ae7256bf4be8ac31e1f70e5938da/9ecec/carte.jpg 1050w,
+/devblog/static/1a88ae7256bf4be8ac31e1f70e5938da/d165a/carte.jpg 1400w,
+/devblog/static/1a88ae7256bf4be8ac31e1f70e5938da/d2602/carte.jpg 4032w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;h2&gt;Repos bien mérité&lt;/h2&gt;
+&lt;p&gt;Une fois leur mission accomplie, les plant-sitters ont mérité à leur tour un peu de répit. Clara, responsable du pôle &lt;em&gt;aloe vera&lt;/em&gt;, profite ainsi d’une sieste tactique, la tête pleine de rêves de salades tomates-mozza-basilic.
+
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.85714285714286%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFKcy01xSP/xAAbEAABBQEBAAAAAAAAAAAAAAAAAgMEERIBIv/aAAgBAQABBQJ1y1RV7SOd9RMlWf/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/AYf/xAAaEAEAAgMBAAAAAAAAAAAAAAABABACIUEx/9oACAEBAAY/An0jj0pJp32v/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARITFB/9oACAEBAAE/IXo6+XCSdLLg3Dwe9lSqY6IhXs//2gAMAwEAAgADAAAAEAAf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QFZ//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAgEBPxBBP//EAB4QAAIBAwUAAAAAAAAAAAAAAAERADFBYSFRcZHw/9oACAEBAAE/EGHIgfUDzCiCE+z36sRYCsRsY/M10dUoKAwY+CBuip//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px #F7FCEE;&quot;
+        alt=&quot;sleepy lofi girl&quot;
+        title=&quot;&quot;
+        src=&quot;/devblog/static/2a5761b916be8591ca1adcd129248d1b/29d31/clara.jpg&quot;
+        srcset=&quot;/devblog/static/2a5761b916be8591ca1adcd129248d1b/e52aa/clara.jpg 175w,
+/devblog/static/2a5761b916be8591ca1adcd129248d1b/70ebb/clara.jpg 350w,
+/devblog/static/2a5761b916be8591ca1adcd129248d1b/29d31/clara.jpg 700w,
+/devblog/static/2a5761b916be8591ca1adcd129248d1b/9ecec/clara.jpg 1050w,
+/devblog/static/2a5761b916be8591ca1adcd129248d1b/d165a/clara.jpg 1400w,
+/devblog/static/2a5761b916be8591ca1adcd129248d1b/d2602/clara.jpg 4032w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;</content:encoded></item><item><title><![CDATA[Bienvenue sur le "Green blog vert"!]]></title><description><![CDATA[Bienvenue sur le Green blog vert, le blog disruptif qui vous prouve qu’il ne faut jamais confier la responsabilité de vos plantes à vos amis !]]></description><link>https://matthieumoreau0.github.io/devblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://matthieumoreau0.github.io/devblog/welcome-to-the-blog/</guid><pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Bienvenue sur le &lt;em&gt;Green blog vert&lt;/em&gt;, le blog disruptif qui vous prouve qu’il ne faut jamais confier la responsabilité de vos plantes à vos amis !&lt;/p&gt;
 &lt;!-- end --&gt;
 &lt;h2&gt;Le début d’une épopée&lt;/h2&gt;
 &lt;p&gt;Tout commence par une simple idée d’apparence innocente mais aux conséquences écologiques désastreuses qui surgit au détour d’une soirée sans doute trop alcoolisée : pourquoi ne pas demander à Matthieu de s’occuper des plantes pendant les vacances estivales ? Il en faut peu pour me convaincre, moi qui cherche à m’extirper le plus fréquemment possible du domaine familial en banlieue (pas assez) proche de Paris. &lt;/p&gt;
